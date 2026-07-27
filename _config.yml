@@ -23,7 +23,7 @@ repository               : "xiaoqiang-gu/xiaoqiang-gu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Xiaoqiang_Gu.jpg"
+  avatar           : "my-bio-photo.jpeg"
   name             : "Xiaoqiang (Sean) Gu"
   pronouns         : # example: "she/her"  
   bio              : "Hello"
