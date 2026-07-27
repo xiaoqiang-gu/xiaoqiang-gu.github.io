@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "my-bio-photo.jpeg"
   name             : "Xiaoqiang (Sean) Gu"
-  pronouns         : "He/him"  
+  pronouns         : # "He/him"  
   bio              : "Lecturer in microwave engineering"
   location         : "Bristol, UK"
   employer         : "University of Bristol"
